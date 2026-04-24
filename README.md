@@ -2,7 +2,7 @@
 
 **Albert Ibe** | PMP · CBAP · CSM · SAFe SM · AWS AI Practitioner  
 📍 Calgary, AB | Remote Canada-Wide  
-🔗 [LinkedIn](https://www.linkedin.com/in/albertibe) | [Data Governance Portfolio](https://github.com/albertibe/data-governance-framework)
+🔗 [LinkedIn](https://www.linkedin.com/in/albertibe) 
 
 ---
 
