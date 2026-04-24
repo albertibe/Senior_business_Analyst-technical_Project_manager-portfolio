@@ -79,11 +79,11 @@ ba-pm-portfolio/
 
 ## Highlighted Case Studies
 
-### 🏗️ Case Study 1 — $100M ERP Program (Canadian Solar)
+### 🏗️ Case Study 1 — $100M ERP Program
 End-to-end delivery of a multi-module ERP implementation spanning Material Management, HR, and Finance across a global $7B+ manufacturing organization. Led a cross-functional team of 25+ across IT, operations, finance, and external vendors.
 → [Read Case Study](03-case-studies/case-study-01-erp-implementation.md)
 
-### 🔐 Case Study 2 — Enterprise IAM Governance (University of Lethbridge)
+### 🔐 Case Study 2 — Enterprise IAM Governance
 Migration from Microsoft MIM to Entra ID governing 8,000+ user accounts. Reduced unauthorized access incidents by 40%. Implemented automated provisioning and quarterly access review governance.
 → [Read Case Study](03-case-studies/case-study-02-iam-governance.md)
 
