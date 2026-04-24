@@ -1,5 +1,5 @@
 # Case Study 01 — $100M ERP Program Delivery
-## Canadian Solar Inc. | IT Project Manager & Business Analyst
+##| IT Project Manager & Business Analyst
 
 ---
 
