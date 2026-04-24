@@ -1,11 +1,11 @@
 # Case Study 03 — Executive Analytics Platform
-## University of Lethbridge | Senior Business Analyst (via ECG)
+## University | Senior Business Analyst (via ECG)
 
 ---
 
 ## Organization Profile
 
-**Organization:** University of Lethbridge  
+**Organization:** University 
 **Sector:** Higher Education  
 **Role:** Senior Business Analyst (Embedded via Expertedge Consulting Group)  
 **Duration:** March 2022 – Present  
